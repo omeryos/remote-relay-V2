@@ -2,8 +2,8 @@ please note that it is not the complete, built project. the actual building and 
 however, this is the complete Main code and the dependent libs.
 
 Components required:
-1 x 3904 NPN transistor or equivalent NPN BJT \n
-1 x LED \n
+1 x 3904 NPN transistor or equivalent NPN BJT 
+1 x LED 
 1 x 510R resistor
 1 x 5k1 resistor
 1 x push button
