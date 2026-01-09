@@ -12,7 +12,7 @@ Components required:
 1 x SSD 1306 oled screen
 1 x LTE module
 1 x ESP 32 board
-1 x Exernal 5V supply capable of about 2A of current (such as a phone charger)
+1 x External 5V supply capable of about 2A of current (such as a phone charger)
 
 * schematic will be uploaded seperately
 * schematic for a 3d printed box will be uploaded in the future
